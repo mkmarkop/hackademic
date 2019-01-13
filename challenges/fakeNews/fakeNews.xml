@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<challenge>
+    <title>FakeNews challenge</title>
+    <author>
+        Marko Pranjic
+    </author>
+    <category>web</category>
+    <description>
+        <p>FakeNews is a portal that is known for publishing interesting facts and celebrity news, but
+            more recently some under pseudonym <strong>M.P.</strong> has published some rather shocking news.</p>
+
+        <p>The target of these scandalous headlines is Mr. X, known in some circles as a person with questionable
+            reputation. Mr. X will reward you with a hefty sum, if you somehow manage to discover who is behind initials <strong>M.P.</strong></p>
+
+        <p>The job shouldn't be that hard, because the developer of the FakeNews didn't care enough about protecting the
+        website from SQL injection attacks. When you find out the real name of <strong>M.P.</strong>, send his full name
+        using his own email on their contact page, to scare them away</p>
+
+        <p>Good luck with your task! Remember, a nice prize is waiting for you!</p>
+    </description>
+    <level>5</level>
+    <duration>360000</duration>
+</challenge>
